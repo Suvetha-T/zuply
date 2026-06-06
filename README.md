@@ -155,11 +155,11 @@ Set these in Render dashboard (backend) and Netlify dashboard (frontend):
 ## Team
 
 **Team Lampart** — POD2 · INTQEA26SD002  
-| Suvetha T |
-| Tailor Mudassir Khan |
-| Manjunath Sadgal Raghu |
-| Dursetti Varsha |
-| Rubini J S |
+Suvetha T  
+Tailor Mudassir Khan  
+Manjunath Sadgal Raghu  
+Dursetti Varsha  
+Rubini J S  
 Cognizant GenC Training Programme
 
 ---
